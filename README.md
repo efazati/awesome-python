@@ -107,13 +107,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for administrative interfaces.*
 
 * [ajenti](https://github.com/ajenti/ajenti) ![stars](https://img.shields.io/github/stars/Ajenti/Ajenti.svg?style=social)![forks](https://img.shields.io/github/forks/Ajenti/Ajenti.svg?style=social) - The admin panel your servers deserve.
-* [django-grappelli](https://grappelliproject.com/) - A jazzy skin for the Django Admin-Interface.
-* [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality.
-* [django-suit](https://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
-* [django-xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies.
-* [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask.
-* [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
-* [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
+* [django-grappelli](https://grappelliproject.com/) ![stars](https://img.shields.io/github/stars/Sehmaschine/Django-grappelli.svg?style=social)![forks](https://img.shields.io/github/forks/Sehmaschine/Django-grappelli.svg?style=social) - A jazzy skin for the Django Admin-Interface.
+* [django-jet](https://github.com/geex-arts/django-jet) ![stars](https://img.shields.io/github/stars/Geex-arts/Django-jet.svg?style=social)![forks](https://img.shields.io/github/forks/Geex-arts/Django-jet.svg?style=social) - Modern responsive template for the Django admin interface with improved functionality.
+* [django-suit](https://djangosuit.com/) ![stars](https://img.shields.io/github/stars/Darklow/Django-suit.svg?style=social)![forks](https://img.shields.io/github/forks/Darklow/Django-suit.svg?style=social) - Alternative Django Admin-Interface (free only for Non-commercial use).
+* [django-xadmin](https://github.com/sshwsfc/xadmin) ![stars](https://img.shields.io/github/stars/Sshwsfc/Xadmin.svg?style=social)![forks](https://img.shields.io/github/forks/Sshwsfc/Xadmin.svg?style=social)- Drop-in replacement of Django admin comes with lots of goodies.
+* [flask-admin](https://github.com/flask-admin/flask-admin) ![stars](https://img.shields.io/github/stars/Flask-admin/Flask-admin.svg?style=social)![forks](https://img.shields.io/github/forks/Flask-admin/Flask-admin.svg?style=social) - Simple and extensible administrative interface framework for Flask.
+* [flower](https://github.com/mher/flower) ![stars](https://img.shields.io/github/stars/Mher/Flower.svg?style=social)![forks](https://img.shields.io/github/forks/Mher/Flower?style=social) - Real-time monitor and web admin for Celery.
+* [wooey](https://github.com/wooey/wooey) ![stars](https://img.shields.io/github/stars/Wooey/Wooey.svg?style=social)![forks](https://img.shields.io/github/forks/Wooey/Wooey.svg?style=social) - A Django app which creates automatic web UIs for Python scripts.
 
 ## Algorithms and Design Patterns
 
